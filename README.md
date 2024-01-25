@@ -10,3 +10,5 @@ As mentioned above, enemies, as well as allies and the player themselves, can be
 Looting and crafting will play a key role in Schoolyard Skirmish. The player will want to loot the environment for items and weapons. Since almost every item has a limited number of uses that correspond to certain things, like the amount of AA Batteries the player has in their inventory, our game encourages and even requires a wide range of strategies and play styles, because no one single set of items will be able to be used throughout the game. The player will often find new, never-before-seen items in lockers and chests that they will have to eventually use when their current stock of weapons and items are used up. 
 
 We have many more interesting ideas up our sleeves, so stick around and follow our progress as we update our game!
+
+As it stands right now, we are also a two person team, with me, Brendon, being a programmer and lead writer on the project. The other person goes by Victor, and they too will help in programming the game. We are lacking in art skills, but we are both going to take the time to improve our artistic skills.
